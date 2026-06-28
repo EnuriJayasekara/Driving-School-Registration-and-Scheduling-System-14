@@ -92,6 +92,16 @@ DriveEdu/
 
 ---
 
+## 📐 UML Class Diagram
+
+The following UML class diagram illustrates the overall system architecture, class relationships, and object-oriented design of the **DriveEdu – Driving School Registration & Scheduling System**.
+
+<p align="center">
+  <img src="websiteimages/UML_Diagram.jpeg" alt="DriveEdu UML Class Diagram" width="1000"/>
+</p>
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
