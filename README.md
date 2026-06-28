@@ -150,7 +150,7 @@ Through the development of DriveEdu, our team gained practical experience in:
 - **Institution:** Sri Lanka Institute of Information Technology (SLIIT)
 - **Academic Year:** Year 1 Semester 2 (Y1S2)
 - **Time Period:** February - June 
-- **Project Type:** Group Project
+- **Project Type:** Group Project - MTR-14
 
 ---
 
